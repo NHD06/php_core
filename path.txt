@@ -1,0 +1,35 @@
+{
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.accessibilitySupport": "on",
+    "cmake.configureOnOpen": true,
+    "redhat.telemetry.enabled": true,
+    "tabnine.experimentalAutoImports": true,
+    "chatgpt.lang": "en",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "sonarlint.rules": {
+        "java:S2095": {
+            "level": "off"
+        },
+        "java:S1854": {
+            "level": "off"
+        },
+        "java:S5850": {
+            "level": "off"
+        }
+    },
+    "editor.linkedEditing": true,
+    "explorer.compactFolders": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "phpserver.phpPath": "C:\\xampp\\php\\php.exe",
+    "php.problems.exclude": {
+        "/": [
+            "PHP2014"
+        ]
+    }
+}
